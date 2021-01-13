@@ -2,8 +2,8 @@
 Python script that can downlosd YouTube videos without YT Api key.
 
 # Requirement
-[x] Python3
-[x] youtube_dl
+- Python3
+- youtube_dl
 
 # Usage
 ```
